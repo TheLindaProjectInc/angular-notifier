@@ -4,6 +4,15 @@
 
 **A well designed, fully animated, highly customizable, and easy-to-use notification library for your **Angular 2+** application.**
 
+**This is a clone to support angular 12 + 13**
+See the original here
+https://github.com/dominique-mueller/angular-notifier
+
+And the upgraded version here.
+https://github.com/kylecannon/angular-notifier/tree/feature/ivy-support
+
+This package may be removed at any time should the source repository update with new framework support.
+
 </div>
 
 <br><br>
